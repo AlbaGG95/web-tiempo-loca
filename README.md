@@ -4,8 +4,8 @@ Bienvenidas al proyecto de la página meteorológica más caótica del
 universo.
 Cada programadora añadirá su propia ciudad y descripción del clima.
 ## Ciudades actuales:
-    <p>🌞 Madrid</p>
-    <p>☀️ Barcelona</p>
-    <p>🌧️ Valencia</p>
-    <p>🗼 Tokio</p>
-    <p>🗽 Nueva York</p>
+    🌞 Madrid
+    ☀️ Barcelona
+    🌧️ Valencia
+    🗼 Tokio
+    🗽 Nueva York
