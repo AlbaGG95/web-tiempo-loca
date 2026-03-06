@@ -33,3 +33,10 @@ background-color: #d3d3d3;
 border-radius: 5px;
 font-style: italic;
 }
+.consejo {
+margin-top: 20px;
+padding: 10px;
+background-color: #b0e0e6;
+border-radius: 5px;
+border-left: 5px solid #4682b4;
+}
