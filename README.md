@@ -1,4 +1,4 @@
-markdown
+
 # 🌦️ Web del Tiempo Loca
 Bienvenidas al proyecto de la página meteorológica más caótica del
 universo.
